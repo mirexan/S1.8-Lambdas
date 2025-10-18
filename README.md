@@ -16,6 +16,11 @@ For all exercises,  Java 8+ Lambdas and Streams API must be used.
 	Do the same as in the previous point, but now the method must return a list with the Strings that, in addition 
 	to containing the letter 'o', also have more than 5 letters. Print the result.
 
+### **Exercises 1 to 2 Observation**
+
+As exercise 2 consist in addition of one more condition to the same list of exercise 1 i've done
+both exercises in the same package and Application class.
+
 ### **Exercise 03**
 
 	Create a list with the names of the months of the year. Print all elements of the list using a lambda expression.
@@ -23,6 +28,11 @@ For all exercises,  Java 8+ Lambdas and Streams API must be used.
 ### **Exercise 04**
 
 	Do the same print as in the previous point, but using a method reference.
+
+### **Exercises 3 to 4 Observation**
+
+As exercise 4 consist in printing the same list from exercise 3 using method *references* i've 
+unified both exercises in the same package.
 
 ### **Exercise 05**
 
@@ -37,6 +47,11 @@ For all exercises,  Java 8+ Lambdas and Streams API must be used.
 ### **Exercise 07**
 
 	With the list from the previous exercise, now sort it in reverse, from the longest string to the shortest.
+
+### **Exercises 6 to 7 Observation**
+
+As exercise 7 consist in printing the same list but reversed from exercise 6 
+I've made both in the same package and main.
 
 ### **Exercise 08**
 
