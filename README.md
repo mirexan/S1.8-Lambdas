@@ -116,4 +116,4 @@ Assign these students to another list and display the new list (all using lambda
 ## 🛠️ **Install**
 
 1. Clone this repo: **>  [git clone](https://github.com/mirexan/S1.2-Exceptions.git)**
-2. Access to the directories in: S1.3-Java-Collections 
+2. Access to the directories in: S1.8-Lambdas 
