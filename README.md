@@ -84,10 +84,10 @@ I've made both in the same package and main.
 	Create a list that contains some text strings and numbers.
 	Sort them by:
 
-- Alphabetically by the first character. (Note: charAt(0) returns the numeric code of the first character)
-- Strings that contain an "e" first, the rest of the strings after. Write the code directly in the lambda.
-- Modify all elements of the list that contain an ‘a’. Replace the ‘a’ with a ‘4’.
-- Show only the elements that are numeric. (Even if they are stored as Strings)
+	- Alphabetically by the first character. (Note: charAt(0) returns the numeric code of the first character)
+  	- Strings that contain an "e" first, the rest of the strings after. Write the code directly in the lambda.
+	- Modify all elements of the list that contain an ‘a’. Replace the ‘a’ with a ‘4’.
+	- Show only the elements that are numeric. (Even if they are stored as Strings)
 
 ### **Level 03**
 
@@ -97,12 +97,12 @@ I've made both in the same package and main.
 	
 	Fill a list with 10 students.
 	
-- Display on screen the name and age of each student.
-- Filter the list for all students whose name starts with the letter 'a'.
-Assign these students to another list and display the new list (all using lambdas).	
-- Filter and display the students who have a grade of 5 or higher.	
-- Filter and display the students who have a grade of 5 or higher and who are not in the PHP course.
-- Display all students who are taking JAVA and are of legal age (18 or older).
+	- Display on screen the name and age of each student.
+	- Filter the list for all students whose name starts with the letter 'a'.
+	Assign these students to another list and display the new list (all using lambdas).	
+	- Filter and display the students who have a grade of 5 or higher.	
+	- Filter and display the students who have a grade of 5 or higher and who are not in the PHP course.
+	- Display all students who are taking JAVA and are of legal age (18 or older).
 
 ## 💻 **Used technologies**
 
@@ -115,5 +115,6 @@ Assign these students to another list and display the new list (all using lambda
 
 ## 🛠️ **Install**
 
-1. Clone this repo: **>  [git clone](https://github.com/mirexan/S1.2-Exceptions.git)**
-2. Access to the directories in: S1.8-Lambdas 
+1. Clone this repo: **>  [git clone](https://github.com/mirexan/S1.8-Lambdas)**
+2. Access to the directories in: S1.8-Lambdas
+3. Execute each program in each main file.
